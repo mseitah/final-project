@@ -1,5 +1,5 @@
-create database ME2;
-use ME2;
+create database ANCHOR;
+use ANCHOR;
 create table  Patients (
      id INT PRIMARY KEY AUTO_INCREMENT,
      first_name VARCHAR(50),
